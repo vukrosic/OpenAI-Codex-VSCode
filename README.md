@@ -1,4 +1,4 @@
-# This is just a repository that hosts images for the extensions. The code is at https://github.com/vukrosic/aiworksj
+# This is just a repository that hosts images for the extensions. The code is at https://github.com/vukrosic/aiworksjs
 
 # OpenAI Codex README
 
