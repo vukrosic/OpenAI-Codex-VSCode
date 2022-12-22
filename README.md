@@ -1,3 +1,5 @@
+# This is just a repository that hosts images for the extensions. The code is at https://github.com/vukrosic/aiworksj
+
 # OpenAI Codex README
 
 OpenAI Codex Playground in your editor.
